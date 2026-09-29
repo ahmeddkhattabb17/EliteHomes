@@ -2,7 +2,7 @@
 
 A premium real-estate website concept designed around property discovery, services, market information, testimonials, FAQs, and lead generation.
 
-## ✨ Features
+## Features
 - Luxury real-estate hero section
 - Property-focused content sections
 - Services and benefits
@@ -12,7 +12,7 @@ A premium real-estate website concept designed around property discovery, servic
 - Responsive navigation and content grids
 - Mobile-friendly layout
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML5
 - CSS3
 - Bootstrap
@@ -20,11 +20,11 @@ A premium real-estate website concept designed around property discovery, servic
 - Font Awesome
 - Responsive Web Design
 
-## 🚀 Run Locally
+## Run Locally
 Open `index.html` in a browser or serve the project with a local static server.
 
-## 🎯 Portfolio Focus
+## Portfolio Focus
 EliteHomes demonstrates business-oriented UI design, conversion-focused sections, responsive grids, forms, reusable visual patterns, and premium branding.
 
-## 👤 Author
+## Author
 Ahmed Khattab — Frontend Developer
