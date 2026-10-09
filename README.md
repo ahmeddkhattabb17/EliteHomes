@@ -26,5 +26,9 @@ Open `index.html` in a browser or serve the project with a local static server.
 ## Portfolio Focus
 EliteHomes demonstrates business-oriented UI design, conversion-focused sections, responsive grids, forms, reusable visual patterns, and premium branding.
 
+## Academic Context
+
+This project was developed as part of a front-end development assignment at Route Academy. It was created for educational purposes to practice and apply frontend development concepts in a project-based setting.
+
 ## Author
 Ahmed Khattab — Frontend Developer
